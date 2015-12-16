@@ -19,7 +19,7 @@ class VocabRevisionState: public State
 {
 private:
 
-	std::vector<VocabPair> _vocabPairs;
+	std::vector<VocabPair*> _vocabPairs;
 
 	void loadVocabFile();
 	void parseVocabLine(std::string lineToParse);
@@ -29,7 +29,8 @@ public:
 	VocabRevisionState();
 	virtual ~VocabRevisionState();
 
-	void virtual update();
+	StateID update();
+	StateID getStateID();
 };
 
 #endif /* VOCABREVISIONSTATE_H_ */

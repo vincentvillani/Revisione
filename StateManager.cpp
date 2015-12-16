@@ -7,17 +7,18 @@
 
 #include "StateManager.h"
 
+#include <iostream>
+
 #include "VocabRevisionState.h"
+#include "MenuState.h"
 
 StateManager::StateManager()
 {
-	_currentState = NULL;
-	_stateList =  std::vector<State*>();
-
 	//Setup the initial state
-	_currentState = new VocabRevisionState();
+	_stateList.push_back(new MenuState());
+	_stateList.push_back(new VocabRevisionState());
 
-	_stateList.push_back(_currentState);
+	_currentState = _stateList[0];
 }
 
 StateManager::~StateManager()
@@ -32,5 +33,30 @@ StateManager::~StateManager()
 void StateManager::update()
 {
 
+	while(true)
+	{
+		StateID stateToChangeTo = _currentState->update();
+
+		if(stateToChangeTo != NONE)
+			changeState(stateToChangeTo);
+	}
+
+
+}
+
+
+void StateManager::changeState(StateID newState)
+{
+	for(int i = 0; i < _stateList.size(); ++i)
+	{
+		if(newState == _stateList[i]->getStateID())
+		{
+			_currentState = _stateList[i];
+			return;
+		}
+	}
+
+	std::cerr << "Can't find state to switch too!" << std::endl;
+	exit(1);
 }
 

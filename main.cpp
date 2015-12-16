@@ -8,10 +8,16 @@
 #include <iostream>
 
 #include "StateManager.h"
+#include <cstdio>
 
 int main()
 {
-	StateManager stateManager = StateManager();
 
+	std::cout << "HI!" << std::endl;
+	StateManager stateManager;
+
+	stateManager.update();
+
+	std::cout << "BYE!" << std::endl;
 	return 0;
 }

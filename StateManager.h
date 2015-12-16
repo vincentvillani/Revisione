@@ -24,6 +24,7 @@ public:
 	virtual ~StateManager();
 
 	void update();
+	void changeState(StateID newState);
 };
 
 #endif /* STATEMANAGER_H_ */

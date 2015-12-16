@@ -7,7 +7,7 @@
 
 #include "VocabPair.h"
 
-VocabPair::VocabPair(std::string italian, std::string english)
+VocabPair::VocabPair(std::string* italian, std::string* english)
 {
 	_italian = italian;
 	_english = english;
@@ -15,5 +15,7 @@ VocabPair::VocabPair(std::string italian, std::string english)
 
 VocabPair::~VocabPair()
 {
+	delete _italian;
+	delete _english;
 }
 
