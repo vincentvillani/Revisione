@@ -7,8 +7,11 @@
 
 #include <iostream>
 
+#include "StateManager.h"
+
 int main()
 {
+	StateManager stateManager = StateManager();
+
 	return 0;
 }
-
