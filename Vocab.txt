@@ -1,0 +1,38 @@
+Uomo_Man
+Sole_Sun
+Mare_Sea
+Donna_Woman
+Nave_Ship
+Mangiare_To eat
+Bere_To drink
+Dormire_To sleep
+Ballare_To dance
+Ginnastica_Gymnastics
+Cielo_Sky
+Carta_Paper
+Farmacia_Pharmacy
+Chiave_Key
+Voce_Voice
+Anello_Ring
+Commesso_Salesman
+Grammatica_Grammar
+Penna_Pen
+Uccello_Bird
+Sud_South
+Riposo_Rest
+Succo_Juice
+Chiuso_Closed
+Maestro_Master
+Signore_Sir
+Insegnare_Teach
+Lavagna_Blackboard
+Oggetto_Object
+Gonna_Skirt
+Valigia_Suitcase
+Gola_Throat
+Viaggio_Journey
+Foglio_Sheet
+Gli_The
+Famiglia_Family
+Figlio
+Consiglio_Advice
