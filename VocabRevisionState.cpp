@@ -9,6 +9,8 @@
 
 #include <fstream>
 #include <iostream>
+#include <cstring>
+#include <stdint.h>
 
 VocabRevisionState::VocabRevisionState()
 {
@@ -17,7 +19,7 @@ VocabRevisionState::VocabRevisionState()
 
 VocabRevisionState::~VocabRevisionState()
 {
-	for(int i = 0; i < _vocabPairs.size(); ++i)
+	for(uint32_t i = 0; i < _vocabPairs.size(); ++i)
 	{
 		delete _vocabPairs[i];
 	}
