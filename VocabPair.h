@@ -13,11 +13,11 @@
 class VocabPair
 {
 private:
-	std::string* _italian;
-	std::string* _english;
+	std::string _italian;
+	std::string _english;
 
 public:
-	VocabPair(std::string* italian, std::string* english);
+	VocabPair(std::string italian, std::string english);
 	virtual ~VocabPair();
 
 	std::string getItalian();

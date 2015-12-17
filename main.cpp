@@ -6,18 +6,15 @@
  */
 
 #include <iostream>
+#include <cstdio>
 
 #include "StateManager.h"
-#include <cstdio>
+
 
 int main()
 {
-
-	std::cout << "HI!" << std::endl;
 	StateManager stateManager;
-
 	stateManager.update();
 
-	std::cout << "BYE!" << std::endl;
 	return 0;
 }

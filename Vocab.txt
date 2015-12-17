@@ -34,5 +34,5 @@ Viaggio_Journey
 Foglio_Sheet
 Gli_The
 Famiglia_Family
-Figlio
+Figlio_Son
 Consiglio_Advice
