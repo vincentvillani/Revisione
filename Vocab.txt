@@ -31,7 +31,7 @@ Gonna_Skirt
 Valigia_Suitcase
 Gola_Throat
 Viaggio_Journey
-Foglio_Sheet
+Foglio_Leaf or Sheet
 Gli_The
 Famiglia_Family
 Figlio_Son
