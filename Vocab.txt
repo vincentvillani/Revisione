@@ -36,3 +36,94 @@ Gli_The
 Famiglia_Family
 Figlio_Son
 Consiglio_Advice
+Ciao_Hi (Friendly)
+Salve_Hello (Friendly)
+Buongiorno_Good morning (formal)
+Buonasera_Good evening (formal)
+Buonanotte_Good night (friendly)
+Arrivederci_Bye-bye (friendly) & goodbye (formal and friendly)
+Addio_Farewell (formal)
+Fiore_flower
+Luna_Moon
+Cielo_Sky
+Albero_Tree
+Penna_Pen
+Letto_Bed
+Casa_House
+Giornale_Newspaper
+Chiave_Key
+Stella_Star
+Foglia_Leaf
+Quaderno_Exercise book
+Poeta_Poet
+Ragazzo_Boy
+Amico_Friend(boy)
+Studente_Student(boy)
+Profeta_Prophet
+Attore_Actor
+Madre_Mother
+Ragazza_Girl
+Amica_Friend(Girl)
+Studentessa_Student(Girl)
+Profetessa_Prophetess
+Attrice_Actress
+Scrittore_Writer
+Pittore_Painter
+Imperatore_Emperor
+Direttore_Manager
+Dottore_Doctor
+Presidente_President
+Avvocato_Lawyer
+Attrice_Actress
+Scrittrice_Writer
+Pittrice_Painter (female)
+Imperatrice_Empress
+Direttrice_Manageress
+Dottoressa_Doctor (female)
+Presidentessa_President (female)
+Poetessa_Poetess
+Avvocatessa_Lawyer
+Banco_Desk
+Buco_Hole
+Masso_Stone
+Panno_Cloth
+Pasto_Meal
+Banca_Bank
+Buca_Pit
+Massa_Mass
+Panna_Cream
+Pasta_Paste
+Re_King (Singular & Plural)
+Caffe_Coffee (Singular & Plural)
+Hotel_Hotel (Singular & Plural)
+Sport_Sport (Singular & Plural)
+Yogurt_Yogurt (Singular & Plural)
+Citta_City (Singular & Plural)
+Universita_Universities (Singular & Plural)
+Braccio_Arm (Masculine & Singular)
+Braccia_Arms (Feminine & Plural)
+Labbro_Lip (Masculine & Singular)
+Labbra_Lips (Feminine & Plural)
+Dito_Finger (Masculine and Singular)
+Dita_Fingers (Feminine and Plural)
+Ginocchio_Knee (Masculine and Singular)
+Ginocchia_Knees (Feminine and Plural)
+Lenzuolo_Sheet (Masculine and Singular)
+Lenzuola_Sheets (Feminine and Plural)
+Uovo_Egg (Masculine and Singular)
+Uova_Eggs (Feminine and Plural)
+Occhiali_Glasses (Only plural)
+Forbici_Scissors (Only plural)
+Aperto_Open (Masculine)
+Autore_Author (Masculine)
+Contadino_Farmer (Masculine)
+Cliente_Customer (Masculine)
+Gatta_Cat (Feminine)
+Impiegata_Employee (Feminine)
+Giornalista_Journalist (Feminine)
+Lavoratrice_Working (Feminine)
+Abitante_Inhabitant
+Corto_Short
+Crema_Cream
+Fresca_Fresh
+Paese_Country
