@@ -127,3 +127,70 @@ Corto_Short
 Crema_Cream
 Fresca_Fresh
 Paese_Country
+Fiori_Flowers (Masculine)
+Cieli_Skies or Heavens (Masculine)
+Alberi_Trees (Masculine)
+Letti_Beds (Masculine)
+Giornali_Newspapers (Masculine)
+Mari_Seas (Masculine)
+Sole_Suns (Masculine)
+Bar_Bar (Plural form is also Bar) (Masculine)
+Ragazzi_Boys (Masculine)
+Amici_Friends (Boys) (Masculine)
+Quaderni_Exercise Books (Masculine)
+Profeti_Prophets (Masculine)
+Lune_Moons (Feminine)
+Penne_Pens (Feminine)
+Case_Houses (Feminine)
+Chiavi_Keys (Feminine)
+Stelle_Stars (Feminine)
+Foglie_Leaves (Feminine)
+Navi_Boats (Feminine)
+Ragazze_Girls(Feminine)
+Donne_Women (Plural and Feminine)
+Amiche_Friends (Feminine)
+Buongiorno_Good morning
+Boungiorno, come sta?_Good morning. How are you?
+Bene, grazie, e lei_Fine, thanks. And what about you?
+Benissimo, grazie_Very well, thank you
+Come sta?_How are you?
+Bene_Fine
+Grazie_Thank you/thanks
+Benissimo_Very well
+Ciao_Hi
+Io sono Vincent, e tu?_My name is Vincent. What's your name?
+Io sono Maria, piacere._I'm Maria. Glad to meet you.
+Piacere mio_My pleasure.
+Io_I
+Sono_am
+Tu_You
+Salve_Hello
+Io sono_I am
+Tu sei_You are
+(Egli/Ella) Lui/Lei_He, she, it is
+Noi siamo_We are
+Voi siete_You are
+(essi) loro sono_They are
+Io ho_I have
+Tu hai_You have
+(egli/ella) lui/lei ha_he, she, it has
+Noi abbiamo_We have
+Voi avete_You have
+(essi) loro hanno_They have
+Io_I
+Tu_You
+(Egli/ella) lui/lei_He, she, it
+Noi_We
+Voi_You
+(essi) loro_they
+Come va?_How is it going?
+Come stai_How are you? (Friendly)
+Come sta? How are you? (Formal)
+Bene, Grazie_Fine, thanks.
+Male_Bad
+Non molto bene_Not so well
+Cosi cosi_Not so well
+Abbastanza bene_Pretty well
+Benissimo_Very well
+E_Is
+Il_The
