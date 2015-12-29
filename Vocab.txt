@@ -185,7 +185,7 @@ Voi_You
 (essi) loro_they
 Come va?_How is it going?
 Come stai_How are you? (Friendly)
-Come sta? How are you? (Formal)
+Come sta?_How are you? (Formal)
 Bene, Grazie_Fine, thanks.
 Male_Bad
 Non molto bene_Not so well
