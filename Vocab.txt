@@ -24,7 +24,7 @@ Succo_Juice
 Chiuso_Closed
 Maestro_Master
 Signore_Sir
-Insegnare_Teach
+Insegnare_To teach
 Lavagna_Blackboard
 Oggetto_Object
 Gonna_Skirt
@@ -121,7 +121,7 @@ Cliente_Customer (Masculine)
 Gatta_Cat (Feminine)
 Impiegata_Employee (Feminine)
 Giornalista_Journalist (Feminine)
-Lavoratrice_Working (Feminine)
+Lavoratrice_Worker (Feminine)
 Abitante_Inhabitant
 Corto_Short
 Crema_Cream
@@ -145,7 +145,7 @@ Case_Houses (Feminine)
 Chiavi_Keys (Feminine)
 Stelle_Stars (Feminine)
 Foglie_Leaves (Feminine)
-Navi_Boats (Feminine)
+Navi_Ships (Feminine)
 Ragazze_Girls(Feminine)
 Donne_Women (Plural and Feminine)
 Amiche_Friends (Feminine)
@@ -167,7 +167,7 @@ Tu_You
 Salve_Hello
 Io sono_I am
 Tu sei_You are
-(Egli/Ella) Lui/Lei_He, she, it is
+(Egli/Ella) Lui/Lei e_He, she, it is
 Noi siamo_We are
 Voi siete_You are
 (essi) loro sono_They are
@@ -179,7 +179,7 @@ Voi avete_You have
 (essi) loro hanno_They have
 Io_I
 Tu_You
-(Egli/ella) lui/lei_He, she, it
+(Egli/ella) lui/lei e_He, she, it is
 Noi_We
 Voi_You
 (essi) loro_they
@@ -194,3 +194,4 @@ Abbastanza bene_Pretty well
 Benissimo_Very well
 E_Is
 Il_The
+Ho_Have
