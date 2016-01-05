@@ -1,0 +1,80 @@
+Alto_Tall
+Bello_Handsome, nice or beautiful
+Biondo_Blone
+Cane_Dog
+Caro_Dear
+Casa_House/home
+Come_How
+Diario_Diary
+Forte_Strong
+Fortunato_Lucky
+Ho = Avere_I have (To have)
+Macchina_Car
+Magro_Thin
+Modesto_Modest
+Nero_Black
+Rosso_Red
+Si_Yes
+Simpatico_Pleasant
+Soprattutto_Most of all, above all
+Una_a, an
+Vero_True
+Allegro_Cheerful
+Calmo_Calm
+Nervoso_Nervous
+Pigro_Lazy
+Tranquillo_Quiet
+Simpatico_Nice, pleasant
+Stanco_Tired
+Il fiore_The flower (masculine)
+Il fiori_The flowers (masculine)
+l'albero_The tree (masculine)
+Gli alberi_The trees (masculine)
+La Chiave_The key (feminine)
+Le chiavi_The keys (feminine)
+L'amica_The girlfriend (feminine)
+Le amiche_The girlfriends (feminine)
+Un fiore_A Flower (masculine)
+Dei fiori_Some flowers
+Un albero_A tree (masculine)
+Degli alberi_Some trees (masculine)
+Un ombrello_An umbrella (masculine)
+Degli ombrelli_Some umbrellas (masculine)
+Una Chiave_A key
+Delle chiavi_Some keys
+Una mela_An apple
+Delle mele_Some apples
+Un'amica_A friend
+Delle amiche_Some friends
+Il_The
+Io_The
+La_The
+L'_The
+I_The
+Gli_The
+Le_The
+Un_A, an
+Uno_A, an
+Una_A, an
+Un'_A, an
+Dei_Some
+Degli_Some
+Delle_Some
+Allegro_Cheerful
+Triste_Sad
+Alto_Tall
+Basso_Short
+Bello_Beautiful/nice
+Brutto_Ugly
+Bianco_White
+Nero_Black
+Forte_Strong
+Debole_Weak
+Fortunato_Lucky
+Sfortunato_Unlucky
+Magro_Thin
+Grasso_Fat
+Modesto_Modest
+Immodesto_Immodest
+Simpatico_Pleasant
+Antipatico_Unpleasant

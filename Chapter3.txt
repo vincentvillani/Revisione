@@ -1,20 +1,6 @@
-Piacere mio_My pleasure.
-Io_I
-Sono_am
-Tu_You
-Salve_Hello
 Io sono_I am
 Tu sei_You are
 (Egli/Ella) Lui/Lei e_He, she, it is
-Siamo_Are
-Siete_Are
-Sono_Am/Are
-Ho_Have
-Hai_Have
-Ha_It has
-Abbiamo_Have
-Avete_Have
-Hanno_Have
 Noi siamo_We are
 Voi siete_You are
 (essi) loro sono_They are
@@ -24,18 +10,6 @@ Tu hai_You have
 Noi abbiamo_We have
 Voi avete_You have
 (essi) loro hanno_They have
-Io_I
-Tu_You
 (Egli/ella) lui/lei e_He, she, it is
 Noi_We
 Voi_You
-(essi) loro_they
-Come va?_How is it going?
-Male_Bad
-Non molto bene_Not so well
-Cosi cosi_Not so well
-Abbastanza bene_Pretty well
-Benissimo_Very well
-E_Is
-Il_The
-Ho_Have
