@@ -12,16 +12,22 @@
 
 #include <vector>
 #include <string>
+#include <fstream>
+#include <iostream>
+#include <cstring>
+#include <stdint.h>
+#include <random>
+#include <chrono>
+#include <stdio.h>
 
 #include "VocabPair.h"
 
 class VocabRevisionState: public State
 {
-private:
+protected:
 
 	std::vector<VocabPair> _vocabPairs;
-
-	void loadVocabFile();
+	void loadVocabFile(std::string filename);
 	void parseVocabLine(std::string lineToParse);
 
 
@@ -29,8 +35,8 @@ public:
 	VocabRevisionState();
 	virtual ~VocabRevisionState();
 
-	StateID update();
-	StateID getStateID();
+	virtual StateID update();
+	virtual StateID getStateID();
 };
 
 #endif /* VOCABREVISIONSTATE_H_ */

@@ -11,12 +11,14 @@
 
 #include "VocabRevisionState.h"
 #include "MenuState.h"
+#include "Chapter3State.h"
 
 StateManager::StateManager()
 {
 	//Setup the initial state
 	_stateList.push_back(new MenuState());
 	_stateList.push_back(new VocabRevisionState());
+	_stateList.push_back(new Chapter3State());
 
 	_currentState = _stateList[0];
 }

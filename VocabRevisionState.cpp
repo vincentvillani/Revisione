@@ -7,17 +7,11 @@
 
 #include "VocabRevisionState.h"
 
-#include <fstream>
-#include <iostream>
-#include <cstring>
-#include <stdint.h>
-#include <random>
-#include <chrono>
-#include <stdio.h>
+
+
 
 VocabRevisionState::VocabRevisionState()
 {
-	loadVocabFile();
 }
 
 VocabRevisionState::~VocabRevisionState()
@@ -27,6 +21,10 @@ VocabRevisionState::~VocabRevisionState()
 
 StateID VocabRevisionState::update()
 {
+
+	//Load the vocab file if it has not yet been loaded
+	if(_vocabPairs.size() == 0)
+		loadVocabFile("Vocab.txt");
 
 	std::string userInput;
 	std::cout << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl;
@@ -79,17 +77,17 @@ StateID VocabRevisionState::update()
 }
 
 
-void VocabRevisionState::loadVocabFile()
+void VocabRevisionState::loadVocabFile(std::string filename)
 {
 	std::ifstream inputFile;
 
-	inputFile.open("Vocab.txt", std::ifstream::in);
+	inputFile.open(filename.c_str(), std::ifstream::in);
 
 	std::string tempString;
 
 	if(!inputFile.good())
 	{
-		std::cerr << "Unable to open the file Vocab.txt" << std::endl;
+		std::cerr << "Unable to open the file " << filename << std::endl;
 		exit(1);
 	}
 
