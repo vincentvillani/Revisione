@@ -275,3 +275,17 @@ Modesto_Modest
 Immodesto_Immodest
 Simpatico_Pleasant
 Antipatico_Unpleasant
+Strega_Witch
+Streghe_Witches
+Monarca_Monarch
+Monarchi_Monarchs
+Auriga_Charioteer
+Aurighi_Charioteers
+Scavo_Excavation
+Scavi_Excavations
+Gnocco_Dumpling
+Gnocchi_Dumplings
+Zio_Uncle
+Zii_Uncles
+Pneumatico_Tires
+Pneumatici_Tires

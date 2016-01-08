@@ -1,0 +1,22 @@
+Are nouns ending in 'o' feminine or masculine?_Masculine
+Are nouns ending in a 'consonant' feminine or masculine?_Masculine
+Are nouns ending in 'a' feminine or masculine?_Feminine and masculine
+Are nouns ending in 'e' feminine or masculine?_Feminine and masculine
+Nouns ending in '-a' (masculine) form their plural by?_Dropping the 'a' and adding 'i' (poet-a -> poet-i)
+Nouns ending in '-o' (masculine) form their plural by?_Dropping the 'o' and adding 'i' (alber-o -> alber-i)
+Nouns ending in '-e' (masculine or feminine) form their plural by?_Dropping the 'e' and adding 'i' (nav-e -> nav-i)
+Nouns ending in '-a' (feminine) form their plural by?_Dropping the 'a' and adding the 'e' (lun-a -> lun-e)
+Nouns ending in '-ca' and '-ga' (feminine) form their plural by?_Dropping the 'a' and adding '-he' (amic-a -> amic-he, streg-a -> streg-he)
+Nouns ending in '-ca' and '-ga' (masculine) form their plural by dropping the 'a' and adding 'hi' (monarc-a -> monarc-hi, aurig-a -> aurig-hi)
+When some words change from masculine to feminine they also?_Change meaning i.e. banco (desk) and banca (bank)
+Some words have one form for both?_Singular and plural meanings
+Some words have a plural only form. True or false?_True
+For 'definite articles' what is used 'before masculine nouns beginning with a consonant'?_'il' and 'i' (il letto -> i letti, il cielo - i cieli)
+For 'definite articles' what is used before 'nouns beginning with vowels'_'l'' and 'gli' (l'uomo -> gli uomini, l'amico -> gli amici, l'albero -> gli alberi)
+For 'definite articles' what is used before 'masculine nouns beginning with s+consonant, gn, z, pn, ps, i+vowel?_'io'?_'io' (io scavo -> gli scavi, io gnocco -> gli gnocchi, io zio -> gli zii, io pneumatico -> gli pneumatici)
+For 'definite articles' what is used 'before all feminine nouns'?_'la' and 'le' (la stella -> le stelle, la foglia -> le foglie)
+For 'definite articles' what is used 'before nouns (feminine singular) beginning with vowels'_' l' ' (l'amica -> le amiche)
+For 'indefinite articles' what is used 'before masculine nouns beginning with a vowel or a consonant'?_'un' (un letto, un amico)
+For 'indefinite articles' what is used 'before masculine words beginning with s+consonant, gn, z, pn, ps, i+vowel'?_'uno' (uno scavo, uno zio, uno pneumatico)
+For 'indefinite articles' what is used 'before feminine nouns beginning with a consonant and i+vowel'?_'una' (una penna, una foglia)
+For 'indefinite articles' what is used 'before feminine words beginning with a vowel'?_' un' ' (un'amica)
