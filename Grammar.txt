@@ -20,3 +20,7 @@ For 'indefinite articles' what is used 'before masculine nouns beginning with a 
 For 'indefinite articles' what is used 'before masculine words beginning with s+consonant, gn, z, pn, ps, i+vowel'?_'uno' (uno scavo, uno zio, uno pneumatico)
 For 'indefinite articles' what is used 'before feminine nouns beginning with a consonant and i+vowel'?_'una' (una penna, una foglia)
 For 'indefinite articles' what is used 'before feminine words beginning with a vowel'?_' un' ' (un'amica)
+What is used 'before plural nouns beginning with a consonant'?_'dei' (dei letti, dei cieli)
+What is used 'before plural words beinning with a vowel, s+consonant, gn, z, pn, ps, i+vowel'?_'degli'
+What is used 'before all plural feminine words'?_'delle'
+Can adjectives be masculine or feminine?_Yes, they can.\nA male noun wants a male adjective - i.e. "il cane (masculine) e ner-o"\nA feminine noun wants a feminine adjective - i.e. "la macchina (feminine) e ross-a"
