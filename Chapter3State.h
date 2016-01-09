@@ -13,7 +13,6 @@
 class Chapter3State: public VocabRevisionState
 {
 private:
-	void loadChapter3File();
 
 
 public:

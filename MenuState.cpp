@@ -22,7 +22,9 @@ StateID MenuState::update()
 	std::string userInput;
 	std::cout << "Select menu item number. E.g. 1" << std::endl;
 	std::cout << "1. Vocabulary Revision" << std::endl;
-	std::cout << "2. Chapter 3 Revision" << std::endl;
+	std::cout << "2. Grammar Revision" << std::endl;
+	std::cout << "3. Chapter 3 Revision" << std::endl;
+	std::cout << "4. Chapter 4 Revision" << std::endl;
 	std::cout << "e. Exit" << std::endl;
 
 	while(true)
@@ -35,7 +37,15 @@ StateID MenuState::update()
 		}
 		else if(userInput.compare("2") == 0)
 		{
+			return GRAMMAR_REVISION_STATE;
+		}
+		else if(userInput.compare("3") == 0)
+		{
 			return CHAPTER_3_REVISION_STATE;
+		}
+		else if(userInput.compare("4") == 0)
+		{
+			return CHAPTER_4_REVISION_STATE;
 		}
 		else if(userInput.compare("e") == 0 || userInput.compare("E") == 0)
 		{

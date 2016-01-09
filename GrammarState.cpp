@@ -1,33 +1,34 @@
 /*
- * Chapter3State.cpp
+ * GrammarState.cpp
  *
- *  Created on: 5 Jan 2016
- *      Author: vincent
+ *  Created on: 9 Jan 2016
+ *      Author: vincentvillani
  */
 
-#include "Chapter3State.h"
+#include "GrammarState.h"
 
-
-//Load the chapter 3 file
-Chapter3State::Chapter3State()
+GrammarState::GrammarState()
 {
+
 }
 
-Chapter3State::~Chapter3State()
+GrammarState::~GrammarState()
 {
+
 }
 
-StateID Chapter3State::update()
+
+StateID GrammarState::update()
 {
 	if(_vocabPairs.size() == 0)
 	{
-		loadVocabFile("Chapter3.txt");
+		loadVocabFile("Grammar.txt");
 	}
 
 
 	std::string userInput;
 	std::cout << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl;
-	std::cout << "*** Chapter 3 REVISION ***" << std::endl;
+	std::cout << "*** Grammar REVISION ***" << std::endl;
 	std::cout << "*** Press enter to expose answer ***" << std::endl;
 	std::cout << "*** Press e + enter to go back to the menu ***" << std::endl;
 
@@ -76,7 +77,7 @@ StateID Chapter3State::update()
 }
 
 
-StateID Chapter3State::getStateID()
+StateID GrammarState::getStateID()
 {
-	return CHAPTER_3_REVISION_STATE;
+	return GRAMMAR_REVISION_STATE;
 }

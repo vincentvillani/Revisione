@@ -1,33 +1,34 @@
 /*
- * Chapter3State.cpp
+ * Chapter4State.cpp
  *
- *  Created on: 5 Jan 2016
- *      Author: vincent
+ *  Created on: 9 Jan 2016
+ *      Author: vincentvillani
  */
 
-#include "Chapter3State.h"
+#include "Chapter4State.h"
 
+Chapter4State::Chapter4State()
+{
 
-//Load the chapter 3 file
-Chapter3State::Chapter3State()
+}
+
+Chapter4State::~Chapter4State()
 {
 }
 
-Chapter3State::~Chapter3State()
-{
-}
 
-StateID Chapter3State::update()
+
+StateID Chapter4State::update()
 {
 	if(_vocabPairs.size() == 0)
 	{
-		loadVocabFile("Chapter3.txt");
+		loadVocabFile("Chapter4.txt");
 	}
 
 
 	std::string userInput;
 	std::cout << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl;
-	std::cout << "*** Chapter 3 REVISION ***" << std::endl;
+	std::cout << "*** Chapter 4 REVISION ***" << std::endl;
 	std::cout << "*** Press enter to expose answer ***" << std::endl;
 	std::cout << "*** Press e + enter to go back to the menu ***" << std::endl;
 
@@ -76,7 +77,7 @@ StateID Chapter3State::update()
 }
 
 
-StateID Chapter3State::getStateID()
+StateID Chapter4State::getStateID()
 {
-	return CHAPTER_3_REVISION_STATE;
+	return CHAPTER_4_REVISION_STATE;
 }

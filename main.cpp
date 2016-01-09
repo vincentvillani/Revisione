@@ -10,6 +10,9 @@
 
 #include "StateManager.h"
 
+//TODO: Add the 'reverse' questions for chapter 3
+//TODO: Add a chapter 4 state
+//TODO: Add grammar state
 
 int main()
 {
