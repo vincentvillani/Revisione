@@ -197,7 +197,7 @@ Il_The
 Ho_Have
 Alto_Tall
 Bello_Handsome, nice or beautiful
-Biondo_Blone
+Biondo_Blonde
 Cane_Dog
 Caro_Dear
 Casa_House/home
@@ -244,7 +244,7 @@ Delle mele_Some apples
 Un'amica_A friend
 Delle amiche_Some friends
 Il_The
-Io_The
+Io_I
 La_The
 L'_The
 I_The
@@ -287,5 +287,5 @@ Gnocco_Dumpling
 Gnocchi_Dumplings
 Zio_Uncle
 Zii_Uncles
-Pneumatico_Tires
+Pneumatico_Tire
 Pneumatici_Tires
