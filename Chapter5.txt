@@ -1,0 +1,116 @@
+Luca va a scuola_Luca goes to school
+Andrea nuota_Andrea swims (is swimming)
+Aldo corre in moto_Aldo rides (is reading) a bike
+Jessica mangia molto_Jessica eats very much
+Alice legge libri e gionali_Alice reads (is reading) books and papers
+Ronnie dorme sempre _Ronnie always sleeps
+Jessica, Alice e Ronnie sono felici_Jessica, Alice and Ronnie are happy
+Io mangio_I eat (I'm eating)
+Tu mangi_You eat
+Lui/Lei mangia_He, she, it eats
+Noi mangiamo_We eat
+Voi mangiate_You eat
+Loro mangiano_They eat
+Io leggo_I read
+Tu leggi_You read
+Lui/lei legge_He, she, it reads
+Noi leggiamo _We read
+Voi leggete_You read
+Loro leggono_They read
+Io dormo_I sleep (I'm sleeping)
+Tu dormi_You sleep
+Lui/lei dorme_He, she it sleeps
+Noi dormiamo_We sleep
+Voi dormite_You sleep
+Loro dormono_They sleep
+Abitare_To live (in)
+Accendere_To light, to turn on
+Agitare_To shake
+Ammettere_To admit
+Aprire_To open
+Avvertire_To warn
+Camminare_To walk
+Cancellare_To cancel
+Chiamare_To call
+Cominciare_To begin
+Costare_To cost
+Domandare_To ask
+Chiedere_To ask
+Entrare_To enter
+Firmare_To sign
+Fumare_To smoke
+Guidare_To drive
+Lavorare_To work
+Mettere_To put
+Prendere_To take
+Scrivere_To write
+Andare_To go (irregular verb)
+Io vado_I go
+Tu vai_You go
+Lui/lei va_He, she, it goes
+Noi andiamo_We go
+Voi andate_You go
+Loro vanno_They go
+Fare_To do (irregular verb)
+Io faccio_I do
+Tu fai_You do
+Lui/Lei fa_He, she, it does
+Noi facciamo_We do
+Voi fate_You do
+Loro fanno_They do
+Preferire_To prefer
+Io preferisco_I prefer
+Tu preferisci_You prefer
+Lui/lei preferisce_He, she, it prefers
+Noi preferiamo_We prefer
+Voi preferite_You prefer
+Loro preferiscono_They prefer
+Capire_To understand (Irregular verb)
+Io capisco_I understand
+Tu capisci_You understand?
+Lui/lei capisce_He, she, it understands
+Noi capiamo_We understand
+Voi capite_You understand
+Loro capiscono_They understand
+Finire_To finish (irregular verb)
+Io finisco_I finish
+Tu finisci_ You finish
+Lui/lei finisce_He, she, it finishes
+Noi finiamo_We finish
+Voi finite_You finish
+Loro finiscono_They finish
+Uscire_To go out (Irregular verb)
+Io esco_I go out
+Tu esci_You go out
+Lui/lei esce_He, she, it goes out
+Noi usciamo_We go out
+Voi uscite_You go out
+Loro escono_They go out
+Stare_To stay (Irregular verb)
+Io sto_I stay
+Tu stai_You stay
+Lui/Lei sta_He, she, it stays
+Noi stiamo_We stay
+Voi state_You stay
+Loro stanno_They stay
+Sapere_To know (irregular verb)
+Io so_I know
+Tu sai_You know
+Lui/Lei sa_He, she, it knows
+Noi sappiamo_We know
+Voi sapete_You know
+Loro sanno_They know
+Pagare_To pay (Irregular verb)
+Io pago_I pay
+Tu paghi_You pay
+Lui/Lei paga_He, she, it pays
+Noi paghiamo_We pay
+Voi Pagate_You pay
+Loro pagano_They pay
+Dimenticare_To forget
+Io dimentico_I forget
+Tu dimentichi_You forget
+Lui/Lei dimentica_He, she, forgets
+Noi dimentichiamo_We forget
+Voi dimenticate_You forget
+Loro dimenticano_They forget
