@@ -13,6 +13,7 @@
 #include "MenuState.h"
 #include "Chapter3State.h"
 #include "Chapter4State.h"
+#include "Chapter5State.h"
 #include "GrammarState.h"
 
 StateManager::StateManager()
@@ -22,6 +23,7 @@ StateManager::StateManager()
 	_stateList.push_back(new VocabRevisionState());
 	_stateList.push_back(new Chapter3State());
 	_stateList.push_back(new Chapter4State());
+	_stateList.push_back(new Chapter5State());
 	_stateList.push_back(new GrammarState());
 
 	_currentState = _stateList[0];

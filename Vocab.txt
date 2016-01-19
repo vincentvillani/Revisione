@@ -158,7 +158,7 @@ Bene_Fine
 Grazie_Thank you/thanks
 Benissimo_Very well
 Ciao_Hi
-Io sono Vincent, e tu?_My name is Vincent. What's your name?
+Io sono Vincenzo, e tu?_My name is Vincent. What's your name?
 Io sono Maria, piacere._I'm Maria. Glad to meet you.
 Piacere mio_My pleasure.
 Io_I
