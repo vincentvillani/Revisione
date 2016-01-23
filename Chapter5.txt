@@ -1,6 +1,6 @@
 Luca va a scuola_Luca goes to school
 Andrea nuota_Andrea swims (is swimming)
-Aldo corre in moto_Aldo rides (is reading) a bike
+Aldo corre in moto_Aldo rides (is riding) a bike
 Jessica mangia molto_Jessica eats very much
 Alice legge libri e gionali_Alice reads (is reading) books and papers
 Ronnie dorme sempre _Ronnie always sleeps

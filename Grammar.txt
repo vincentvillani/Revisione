@@ -13,16 +13,16 @@ Some words have one form for both?_Singular and plural meanings
 Some words have a plural only form. True or false?_True
 For 'definite articles' what is used 'before masculine nouns beginning with a consonant'?_'il' and 'i' (il letto -> i letti, il cielo -> i cieli)
 For 'definite articles' what is used before 'nouns beginning with vowels'_'l'' and 'gli' (l'uomo -> gli uomini, l'amico -> gli amici, l'albero -> gli alberi)
-For 'definite articles' what is used before 'masculine nouns beginning with s+consonant, gn, z, pn, ps, i+vowel?_'io' (io scavo -> gli scavi, io gnocco -> gli gnocchi, io zio -> gli zii, io pneumatico -> gli pneumatici)
+For 'definite articles' what is used before 'masculine nouns beginning with s+consonant, gn, z, pn, ps, i+vowel?_'lo' (lo scavo -> gli scavi, lo gnocco -> gli gnocchi, lo zio -> gli zii, lo pneumatico -> gli pneumatici)
 For 'definite articles' what is used 'before all feminine nouns'?_'la' and 'le' (la stella -> le stelle, la foglia -> le foglie)
 For 'definite articles' what is used 'before nouns (feminine singular) beginning with vowels'_' l' ' (l'amica -> le amiche)
 For 'indefinite articles' what is used 'before masculine nouns beginning with a vowel or a consonant'?_'un' (un letto, un amico)
 For 'indefinite articles' what is used 'before masculine words beginning with s+consonant, gn, z, pn, ps, i+vowel'?_'uno' (uno scavo, uno zio, uno pneumatico)
 For 'indefinite articles' what is used 'before feminine nouns beginning with a consonant and i+vowel'?_'una' (una penna, una foglia)
 For 'indefinite articles' what is used 'before feminine words beginning with a vowel'?_' un' ' (un'amica)
-What is used 'before plural nouns beginning with a consonant'?_'dei' (dei letti, dei cieli)
-What is used 'before plural words beinning with a vowel, s+consonant, gn, z, pn, ps, i+vowel'?_'degli'
-What is used 'before all plural feminine words'?_'delle'
+Which 'some' word is used 'before plural nouns beginning with a consonant'?_'dei' (dei letti, dei cieli)
+Which 'some' word is used 'before plural words beinning with a vowel, s+consonant, gn, z, pn, ps, i+vowel'?_'degli'
+Which 'some' word is used 'before all plural feminine words'?_'delle'
 Can adjectives be masculine or feminine?_Yes, they can. A male noun wants a male adjective - i.e. "il cane (masculine) e ner-o" A feminine noun wants a feminine adjective - i.e. "la macchina (feminine) e ross-a"
 What are the three verb conjugations?_'re, ere and ire
 For the verb conjugation '-are' how do you change the verb when used with the following personal pronouns: io, tu, lui/lei, noi, voi and loro?_io: -o, tu: -i, lui/lei: -a, noi: -iamo, voi: -ate, loro: -ano
