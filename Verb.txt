@@ -1,0 +1,36 @@
+abitare_to live (in)
+accendere_to light, to turn on
+agitare_to shake
+ammettere_to admit
+aprire_to open
+avvertire_to warn
+camminare_to walk
+cancellare_to cancel
+chiamare_to call
+cominciare_to begin
+costare_to cost
+domandare_to ask
+chiedere_to ask
+entrare_to enter
+firmare_to sign
+fumare_to smoke
+guidare_to drive
+lavorare_to work
+mettere_to put
+prendere_to take
+scrivere_to write
+andare_to go (irregular verb)
+fare_to do (irregular verb)
+preferire_to prefer (irregular verb)
+capire_to understand (irregular verb)
+finire_to finish (irregular verb)
+uscire_to go out (irregular verb)
+stare_to stay (irregular verb)
+sapere_to know (irregular verb)
+pagare_to pay (irregular verb)
+dimenticare_to forget (irregular verb)
+dormire_to sleep
+ballare_to dance
+parlare_to talk
+bere_to drink
+insegnare_to teach

@@ -24,7 +24,7 @@ Which 'some' word is used 'before plural nouns beginning with a consonant'?_'dei
 Which 'some' word is used 'before plural words beinning with a vowel, s+consonant, gn, z, pn, ps, i+vowel'?_'degli'
 Which 'some' word is used 'before all plural feminine words'?_'delle'
 Can adjectives be masculine or feminine?_Yes, they can. A male noun wants a male adjective - i.e. "il cane (masculine) e ner-o" A feminine noun wants a feminine adjective - i.e. "la macchina (feminine) e ross-a"
-What are the three verb conjugations?_'re, ere and ire
+What are the three verb conjugations?_are, ere and ire
 For the verb conjugation '-are' how do you change the verb when used with the following personal pronouns: io, tu, lui/lei, noi, voi and loro?_io: -o, tu: -i, lui/lei: -a, noi: -iamo, voi: -ate, loro: -ano
 For the verb conjugation '-ere' how do you change the verb when used with the following personal pronouns: io, tu, lui/lei, noi, voi and loro?_io: -o, tu: -i, lui/lei: -e, noi: -iamo, voi: -ete, loro: -ono
 For the verb conjugation '-ire' how do you change the verb when used with the following personal pronouns: io, tu, lui/lei, noi, voi and loro?_io: -o, tu: -i, lui/lei: -e, noi: -iamo, voi: -ite, loro: -ono 

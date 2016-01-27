@@ -15,6 +15,7 @@
 #include "Chapter4State.h"
 #include "Chapter5State.h"
 #include "GrammarState.h"
+#include "VerbRevisionState.h"
 
 StateManager::StateManager()
 {
@@ -25,6 +26,7 @@ StateManager::StateManager()
 	_stateList.push_back(new Chapter4State());
 	_stateList.push_back(new Chapter5State());
 	_stateList.push_back(new GrammarState());
+	_stateList.push_back(new VerbRevisionState());
 
 	_currentState = _stateList[0];
 }
