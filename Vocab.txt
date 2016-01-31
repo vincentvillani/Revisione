@@ -289,3 +289,97 @@ Zio_Uncle
 Zii_Uncles
 Pneumatico_Tire
 Pneumatici_Tires
+Quanti libri hai?_How many books do you have?
+Sei. E tu?_I have six books, and you?
+Otto_Eight
+Zero_Zero
+Uno_One
+Due_Two
+Tre_Three
+Quattro_four
+Cinque_Five
+Sei_Six
+Sette_Seven
+Otto_Eight
+Nove_Nine
+Dieci_Ten
+Undici_Eleven
+Dodici_Twelve
+Tredici_Thirteen
+Quattordici_Fourteen
+Quindici_Fifteen
+Sedici_Sixteen
+Diciassette_Seventeen
+Diciotto_Eighteen
+Diciannove_Nineteen
+Venti_Twenty
+Ventuno_Twenty one
+Ventidue_Twenty two
+Ventitre_Twenty three
+Ventiquattro_Twenty four
+Venticinque_Twenty five
+Ventisei_Twenty six
+Ventisette_Twenty seven
+Ventotto_Twenty eight
+Ventinove_Twenty nine
+Trenta_Thirty
+Trentuno_Thirty one
+Quaranta_Forty
+Cinquanta_Fifty
+Sessanta_Seventy
+Ottanta_Eighty
+Novanta_Ninety
+Cento_A hundred
+Centodieci_ A hundred and ten
+Duecento_Two hundred
+Trecento_Three hundred
+Quattrocento_Four hundred
+Cinquecento_Five hundred
+Seicento_Six hundred
+Settecento_Seven hundred
+Ottocento_Eight hundred
+Novecento_Nine hundred
+Mille_A thousand
+Duemila_Two thousand
+Diecimila_Ten thousand
+Centomila_A hundred thousand
+Un milione_A million
+Un miliardo_A billion
+Inverno_Winter
+Primavera_Spring
+Estate_Summer
+Autunno_Autumn
+Gennaio_January
+Febbraio_February
+Marzo_March
+Aprile_April
+Maggio_May
+Giugno_June
+Luglio_July
+Agosto_August
+Settembre_September
+Ottobre_October
+Novembre_November
+Dicembre_December
+Lunedi_Monday
+Martedi_Tuesday
+Mercoledi_Wednesday
+Giovedi_Thursday
+Venerdi_Friday
+Sabato_Saturday
+Domenica_Sunday
+Quando arriva Luca?_When is Luca coming
+In estate_Next summer
+E Matteo?_And Matteo?
+In primavera_Next spring
+Quando inizia l'estate?_When does summer begin?
+Il ventuno giugno_On the 21st of June
+Quando inizia la settimana_When does the week begin?
+Lunedi_Monday
+Quando arriva Natale?_When is Christmas day?
+Il venticinque dicembre_The 25th of December.
+Quanti anni hai?_How old are you?
+Venticinque. E tu?_Twenty five. And you?
+Trentuno_Thirty one
+Quante penne hai?_How many pens do you have?
+Tre_Three

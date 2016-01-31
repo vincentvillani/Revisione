@@ -1,35 +1,33 @@
 /*
- * Chapter5State.cpp
+ * Chapter6State.cpp
  *
- *  Created on: 19 Jan 2016
+ *  Created on: 31 Jan 2016
  *      Author: vincentvillani
  */
 
-#include "Chapter5State.h"
+#include "Chapter6State.h"
 
-Chapter5State::Chapter5State()
+Chapter6State::Chapter6State()
 {
+}
 
+Chapter6State::~Chapter6State()
+{
 }
 
 
-Chapter5State::~Chapter5State()
-{
 
-}
-
-
-StateID Chapter5State::update()
+StateID Chapter6State::update()
 {
 	if(_vocabPairs.size() == 0)
 	{
-		loadVocabFile("Chapter5.txt");
+		loadVocabFile("Chapter6.txt");
 	}
 
 
 	std::string userInput;
 	std::cout << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl << std::endl;
-	std::cout << "*** Chapter 5 REVISION ***" << std::endl;
+	std::cout << "*** Chapter 6 REVISION ***" << std::endl;
 	std::cout << "*** Press enter to expose answer ***" << std::endl;
 	std::cout << "*** Press e + enter to go back to the menu ***" << std::endl;
 
@@ -78,7 +76,7 @@ StateID Chapter5State::update()
 }
 
 
-StateID Chapter5State::getStateID()
+StateID Chapter6State::getStateID()
 {
-	return CHAPTER_5_REVISION_STATE;
+	return CHAPTER_6_REVISION_STATE;
 }
