@@ -8,7 +8,7 @@ camminare_to walk
 cancellare_to cancel
 chiamare_to call
 cominciare_to begin
-costare_to cost
+costare_to cost (regular): io costo, tu costi, noi costiamo, voi costate, loro costano
 domandare_to ask
 chiedere_to ask
 entrare_to enter
@@ -19,18 +19,21 @@ lavorare_to work
 mettere_to put
 prendere_to take
 scrivere_to write
-andare_to go (irregular verb)
-fare_to do (irregular verb)
-preferire_to prefer (irregular verb)
-capire_to understand (irregular verb)
-finire_to finish (irregular verb)
-uscire_to go out (irregular verb)
-stare_to stay (irregular verb)
-sapere_to know (irregular verb)
-pagare_to pay (irregular verb)
-dimenticare_to forget (irregular verb)
-dormire_to sleep
+andare_to go (irregular): io vado, tu vai, lui va, noi andiamo, voi andate, loro vanno
+fare_to do (irregular): io faccio, tu fai, lui fa, noi facciamo, voi fate, loro fanno
+preferire_to prefer (irregular): io preferisco, tu preferisci, lui preferisce, noi preferiamo, voi preferite, loro preferiscono
+capire_to understand (irregular): io capisco, tu capisci, lui capisce, noi capiamo, voi capite, loro capiscono
+finire_to finish (irregular): io finisco, tu finisci, lui finisce, noi finiamo, voi finite, loro finiscono
+uscire_to go out (irregular): io esco, tu esci, lui esce, noi usciamo, voi uscite, loro escono
+stare_to stay (irregular): io sto, tu stai, lui sta, noi stiamo, voi state, loro stanno
+sapere_to know (irregular): io so, tu sai, lui sa, noi sappiamo, voi sapete, loro sanno
+pagare_to pay (irregular): io pago, tu paghi, lui paga, noi paghiamo, voi pagate, loro pagano
+dimenticare_to forget (irregular): io dimentico, tu dimentichi, lui dimentica, noi dimentichiamo, voi dimenticate, loro dimenticano
+dormire_to sleep (regular): io dormo, tu dormi, lui dorme, noi dormiamo, voi dormite, loro dormono
 ballare_to dance
 parlare_to talk
 bere_to drink
 insegnare_to teach
+venire_to come (irregular): io vengo, tu vieni, lui viene, noi veniamo, voi venite, loro vengono
+mangiare_to eat (regular, kinda?): io mangio, tu mangi, lui mangia, noi mangiamo, voi mangiate, loro mangiono
+leggere_to read (regular): io leggo, tu leggi, lui legge, noi leggiamo, voi leggete, loro leggono

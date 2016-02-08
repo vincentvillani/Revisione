@@ -35,7 +35,8 @@ Trenta_Thirty
 Trentuno_Thirty one
 Quaranta_Forty
 Cinquanta_Fifty
-Sessanta_Seventy
+Sessanta_Sixty
+Settanta_Seventy
 Ottanta_Eighty
 Novanta_Ninety
 Cento_A hundred
