@@ -23,6 +23,29 @@ quanta_how much (feminine singular)
 quante_how many (feminine plural)
 quanto zucchero hai?_how much sugar do you have?
 quanti libri hai?_how many books do you have?
-quante matite avete?
+quante matite avete?_how many pencils do you have
 matita_pencil
 matite_pencils
+costare_to cost (regular verb)
+io costo_I cost
+tu costi_you cost
+esso_it
+lui, lei, esso costa_he, she it costs
+noi costiamo_we cost
+voi costate_you cost
+loro costano_they cost
+venire_to come (irregular verb)
+io vengo_I come
+tu vieni_you come
+lui, lei, viene_he, she, it comes
+noi veniamo_we come
+voi venite_you come
+loro vengono_they come
+dieci euro_ten euro
+dodici euro e trenta centesimi_twelve euro and thirty cents
+venti euro_twenty euro
+cinquanta euro_fifty euro
+cento euro_one hundred euro
+centoquaranta euro_one hundred and fourty euro
+duecentocinquanta euro_two hundred and fifty euro
+cinquecento euro_five hundred euro

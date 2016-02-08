@@ -28,6 +28,7 @@ StateID MenuState::update()
 	std::cout << "5. Chapter 4 Revision" << std::endl;
 	std::cout << "6. Chapter 5 Revision" << std::endl;
 	std::cout << "7. Chapter 6 Revision" << std::endl;
+	std::cout << "8. Chapter 7 Revision" << std::endl;
 	std::cout << "e. Exit" << std::endl;
 
 	while(true)
@@ -61,6 +62,10 @@ StateID MenuState::update()
 		else if(userInput.compare("7") == 0)
 		{
 			return CHAPTER_6_REVISION_STATE;
+		}
+		else if(userInput.compare("8") == 0)
+		{
+			return CHAPTER_7_REVISION_STATE;
 		}
 		else if(userInput.compare("e") == 0 || userInput.compare("E") == 0)
 		{

@@ -383,3 +383,66 @@ Venticinque. E tu?_Twenty five. And you?
 Trentuno_Thirty one
 Quante penne hai?_How many pens do you have?
 Tre_Three
+anni_years
+anno_year
+quanto costa una rosa?_How much does a rose cost?
+due euro e mezzo_two and a half euro
+sono domande per chiedere il prezzo_are different ways to ask how much something costs
+quanto costa?_how much does it cost?
+quanto viene?_how much does it cost?
+quant'e?_how much is it?
+quanto fa?_how much is it?
+quando_when
+quanto_how much
+come_how
+dove_where
+e non cambiano_and do not change
+quando arrivi?_when do you arrive?
+quando parti?_when do you leave?
+quanto costano le torte?_how much are the cakes?
+quanto sei alta?_how tall are you?
+quanto e lontana casa tua?_how far is your house?
+come stai?_how are you?
+dove vai?_where are you going?
+quanto_how much (masculine singular)
+quanti_how many (masculine plural)
+quanta_how much (feminine singular)
+quante_how many (feminine plural)
+quanto zucchero hai?_how much sugar do you have?
+quanti libri hai?_how many books do you have?
+quante matite avete?
+matita_pencil
+matite_pencils
+costare_to cost (regular verb)
+io costo_I cost
+tu costi_you cost
+esso_it
+lui, lei, esso costa_he, she it costs
+noi costiamo_we cost
+voi costate_you cost
+loro costano_they cost
+venire_to come (irregular verb)
+io vengo_I come
+tu vieni_you come
+lui, lei, viene_he, she, it comes
+noi veniamo_we come
+voi venite_you come
+loro vengono_they come
+dieci euro_ten euro
+dodici euro e trenta centesimi_twelve euro and thirty cents
+venti euro_twenty euro
+cinquanta euro_fifty euro
+cento euro_one hundred euro
+centoquaranta euro_one hundred and fourty euro
+duecentocinquanta euro_two hundred and fifty euro
+cinquecento euro_five hundred euro
+ora_hour
+ore_hours
+minuto_minute
+minuti_minutes
+pipa_pipe
+porta_door
+finestra_window
+dadi_dice
+matita_pencil
+compasso_compass (the drawing one)

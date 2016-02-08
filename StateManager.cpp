@@ -15,6 +15,7 @@
 #include "Chapter4State.h"
 #include "Chapter5State.h"
 #include "Chapter6State.h"
+#include "Chapter7State.h"
 #include "GrammarState.h"
 #include "VerbRevisionState.h"
 
@@ -27,6 +28,7 @@ StateManager::StateManager()
 	_stateList.push_back(new Chapter4State());
 	_stateList.push_back(new Chapter5State());
 	_stateList.push_back(new Chapter6State());
+	_stateList.push_back(new Chapter7State());
 	_stateList.push_back(new GrammarState());
 	_stateList.push_back(new VerbRevisionState());
 
