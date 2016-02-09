@@ -1,0 +1,31 @@
+matita_pencil
+gesso_chalk
+insegnante_teacher
+gomma_rubber
+pipa_(smoking) pipe
+porta_door
+finestra_window
+dadi_dice
+compasso_compass (the drawing one)
+topo_mouse
+ratto_rat
+cigno_swan
+gatta_cat
+cane_dog
+uva_grape/grapes
+pera_pear
+limone_lemon
+gelato_ice cream
+banana_banana
+righello_ruler (drawing)
+ink_inchiostro
+nono_ninth
+grigio_grey
+cartella_school bag
+giallo_yellow
+gomme_rubbers
+marrone_brown
+verde_green
+ramo_branch
+sedia_chair
+fazzoletto_hankercheif

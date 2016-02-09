@@ -49,3 +49,6 @@ cento euro_one hundred euro
 centoquaranta euro_one hundred and fourty euro
 duecentocinquanta euro_two hundred and fifty euro
 cinquecento euro_five hundred euro
+tua_your
+lontana_far (distant?)
+mezzo_half

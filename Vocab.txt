@@ -410,7 +410,7 @@ quanta_how much (feminine singular)
 quante_how many (feminine plural)
 quanto zucchero hai?_how much sugar do you have?
 quanti libri hai?_how many books do you have?
-quante matite avete?
+quante matite avete?_how many pens do you have?
 matita_pencil
 matite_pencils
 costare_to cost (regular verb)
@@ -446,3 +446,34 @@ finestra_window
 dadi_dice
 matita_pencil
 compasso_compass (the drawing one)
+tuo_yours (masculine)
+tuoi_yours
+cucina_kitchen
+tua_yours (feminine)
+tue_yours (plural)
+torta_cake
+dolce_sweet
+ciotola_bowl
+sale_salt
+ghiaccio_ice
+sue_her's/his
+suo_his
+sua_it's, his or her
+cavallo_horse
+riso_rice
+bottiglie_bottles
+farfalle_butterflies
+caramelle_candies
+forchetta_fork
+olio_oil
+latte_milk
+orso_bear
+forchette_forks
+piatto_plate
+nel_on the
+torte_cakes
+prego_please
+formica_ants
+mucce_cows
+mucca_cow
+balena_whale
