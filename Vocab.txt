@@ -477,3 +477,78 @@ formica_ants
 mucce_cows
 mucca_cow
 balena_whale
+oggi_today
+o_or
+domani_tomorrow
+prima_before
+dopo_after
+scusi_excuse me
+si?_yes?
+che ore sono, per piacere?_What time is it, please?
+che ora e, per favore?
+ore_hours
+ora_hour or now or time (context)
+sono le nove_it's nine o'clock
+gia le nove? e tardi_nine already? It's late!
+sveglia_wake up
+ehi_hey
+ma e presto. che ore sono?_But it's early. What time is it?
+ma e presto_but it's early
+che ore sono?_what time is it?
+le sette. E ora di alzarsi_it's seven o'clock. Time to get up.
+E ora di alzarsi_time to get up
+uffa_phew
+uffa, adesso arrivo_phew, i'm coming
+adesso arrivo_i'm coming
+oggi_today
+oggi vado al cinema_today I'm going to the cinema
+domani_tomorrow
+Sara arriva domani_Sara is coming tomorrow
+dopodomani_the day after tomorrow
+Natale e dopodomani_Christmas is the day after tomorrow
+ora_now
+adesso_right away
+subito_at once
+quando vai a scuola?_when do you go to school?
+a_to or in?
+ora vado_i'm going now
+adesso vado_i'm going right away
+vado subito_i'm going at once
+prima_first or before
+dopo_then or after
+prima faccio i compiti, dopo gioco_first I do my homework then I play
+compiti_homework
+gioco_play or game
+ancora_still or yet
+non sei ancora pronto?_aren't you ready yet?
+sei ancora qui?_are you still here?
+qui_here
+spesso_often
+Sara resta spesso a letto la domenica mattina_Sara often stays in bed on Sunday mornings
+resta_remains
+mattina_morning
+gli uomini sono spesso cattivi_men are often bad
+cattivi_bad
+sempre_always
+non...mai_never
+non sei mai puntuale_you are never on time
+puntuale_punctual
+ormai_now
+prima_already
+ormai e troppo tardi_now it's to late
+troppo_too much or too many
+ormai Luca era a casa_Luca was already at home
+prima, poi_first, then
+prima pensare, poi parlare_first thinking, then talking
+scusi, che ore sono, per piacere?_excuse me, what time is it, please?
+che ore sono_what time is it?
+sono le otto_It's eight o'clock
+sono le otto e cinque_it's five minutes past eight
+sono le otto e un quarto_it's quarter past eight
+sono le otto e mezza_it's half past eight
+sono le otto e trentacinque_it's eight thirty five
+sono le nove meno un quarto_it's a quarter to nine
+sono le nove meno cinque_it's five to nine
+(che ora sono?) e l'una_it's one o'clock
+meno_less
+piu_more
