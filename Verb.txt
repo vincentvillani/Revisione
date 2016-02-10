@@ -37,3 +37,5 @@ insegnare_to teach
 venire_to come (irregular): io vengo, tu vieni, lui viene, noi veniamo, voi venite, loro vengono
 mangiare_to eat (regular, kinda?): io mangio, tu mangi, lui mangia, noi mangiamo, voi mangiate, loro mangiono
 leggere_to read (regular): io leggo, tu leggi, lui legge, noi leggiamo, voi leggete, loro leggono
+restare_to remain
+pensare_to think
