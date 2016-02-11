@@ -6,7 +6,7 @@ dopo_after
 scusi_excuse me
 si?_yes?
 che ore sono, per piacere?_What time is it, please?
-che ora e, per favore?
+che ora e, per favore?_What time is it, please?
 ore_hours
 ora_hour or now or time (context)
 sono le nove_it's nine o'clock
